@@ -1,6 +1,6 @@
 ## <h1>Hi I'm Filza  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
-I'm Python,php,html,Javascript,ruby,Shell,vb.net Dev And i program tools and publish them here. I hope you like my tools ☺️
+I'm a Developer And i Program Tools And Publish Them Here. I Hope You Like My Tools 📲🔭
 
 :mailbox: Reach me out!
 
