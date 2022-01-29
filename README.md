@@ -4,7 +4,6 @@ I'm a Developer And i Program Tools And Publish Them Here. I Hope You Like My To
 
 :mailbox: Reach me out!
 
-[![instagram Badge](https://img.shields.io/badge/-@r507_507-e74c3c?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/r507_507)
 [![telegram Badge](https://img.shields.io/badge/-@Filza2-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://t.me/Filza2)
 
 <!-- TODO: Add last video link -->
