@@ -15,6 +15,6 @@ I'm a Developer And i Program Tools And Publish Them Here. I Hope You Like My To
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github-readme-stats.vercel.app/api?username=vv1ck"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vv1ck&theme=tokyonight" /></a>
+    <a href="https://github-readme-stats.vercel.app/api?username=vv1ck&theme=dark"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vv1ck&theme=tokyonight" /></a>
   <a href="https://github.com/Filza2"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vv1ck&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
