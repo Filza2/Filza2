@@ -6,11 +6,9 @@ I'm a Developer And i Program Tools And Publish Them Here. I Hope You Like My To
 
 [![telegram Badge](https://img.shields.io/badge/-@TweakPY-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://t.me/TweakPY)
 
-<!-- TODO: Add last video link -->
-
 - My websites:
 - https://Filza2.github.io
-- https://jftv.pythonanywhere.com/api
+- https://jftv.pythonanywhere.com/
 
 ## 📊 My Github Stats
 
