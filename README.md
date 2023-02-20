@@ -1,7 +1,6 @@
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mynerve&pause=1000&color=F7F7F7&background=00000014&width=440&height=60&lines=Hey+%F0%9F%91%8B+I%60m+Filza+!+....;Nice+to+see+you+..;My+Telegram+Channel+is+%3A%40Tweakpy;%26+My+websites+are;Personal+%3A+Filza2.github.io;Api+%3A+jftv.pythonanywhere.com" alt="Hello There"/></a>
 
 I'm a Developer And i Program Tools And Publish Them Here. I Hope You Like My Tools 📲🔭
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23A4834D&lines=Hey+%F0%9F%91%8B%2C+I%60m+Filza2+....!;Nice+to+see+you+..."/><br><br>
 
 ## My Channel in Telegram
 [![telegram Badge](https://img.shields.io/badge/-@TweakPY-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://t.me/TweakPY)
