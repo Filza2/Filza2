@@ -1,7 +1,8 @@
 ## <h1>Hi I'm Filza  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
 I'm a Developer And i Program Tools And Publish Them Here. I Hope You Like My Tools 📲🔭
-
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23A4834D&lines=Hey+%F0%9F%91%8B%2C+I%60m+Filza2+....!;Nice+to+see+you+..."/><br><br>
+  
 :mailbox: Reach me out!
 
 [![telegram Badge](https://img.shields.io/badge/-@TweakPY-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://t.me/TweakPY)
