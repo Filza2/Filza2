@@ -16,5 +16,5 @@
   <a href="https://github.com/Filza2"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filza2&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=717171&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B3B3B&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
  <br><i>@TweakPY</i><br>
