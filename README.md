@@ -6,7 +6,7 @@
 [![telegram Badge](https://img.shields.io/badge/-@TweakPY-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://t.me/TweakPY)
 
 ## Visitors count
-<img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+<img src="https://profile-counter.glitch.me/Filza2/count.svg" />
 
 ## My websites
 - https://Filza2.github.io
