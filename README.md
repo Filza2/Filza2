@@ -5,6 +5,9 @@
 ## My Channel in Telegram
 [![telegram Badge](https://img.shields.io/badge/-@TweakPY-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://t.me/TweakPY)
 
+## Visitors count
+<img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+
 ## My websites
 - https://Filza2.github.io
 - https://jftv.pythonanywhere.com/
