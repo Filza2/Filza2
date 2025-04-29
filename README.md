@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mynerve&pause=1000&color=3B3B3B&multiline=true&repeat=false&width=460&height=60&lines=I'm+a+Programmer+%26+i+share+my+tools+here+for+you+all;I+Hope+You+Like+My+Tools)](https://github.com/Filza2) 
 
 ## My Channel in Telegram
-[![telegram Badge](https://img.shields.io/badge/-@TweakPY-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://t.me/TweakPY)
+[![telegram Badge](https://img.shields.io/badge/-@TweakPY-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://t.me/tpy_0)
 
 ## Visitors count
 <img src="https://profile-counter.glitch.me/Filza2/count.svg" />
@@ -21,4 +21,4 @@
   <a href="https://github.com/Filza2"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filza2&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
- <br><i>@TweakPY</i><br>
+ <br><i>@Tpy</i><br>
