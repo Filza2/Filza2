@@ -6,7 +6,7 @@
 [![telegram Badge](https://img.shields.io/badge/-@TPY-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://t.me/tpy_0)
 
 ## Visitors count
-<img src="https://profile-counter.glitch.me/Filza2/count.svg" />
+![](https://komarev.com/ghpvc/?username=filza2)
 
 ## My websites
 - https://Filza2.github.io
