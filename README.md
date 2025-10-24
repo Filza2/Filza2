@@ -24,15 +24,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=filza2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&v=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=filza2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&v=1" alt="GitHub Trophies">
 </p>
 
 
 ## Visitors count
-![](https://komarev.com/ghpvc/?username=filza2)
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=filza2&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
+
   
  <br><i>@Tpy</i><br>
