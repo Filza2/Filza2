@@ -5,9 +5,6 @@
 ## My Channel in Telegram
 [![telegram Badge](https://img.shields.io/badge/-@TPY-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://t.me/tpy_0)
 
-## Visitors count
-![](https://komarev.com/ghpvc/?username=filza2)
-
 ## My websites
 - https://Filza2.github.io
 - https://tpy.onrender.com/
@@ -18,7 +15,24 @@
 
   <br/>
     <a href="https://github.com/Filza2"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Filza2&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+    
   <a href="https://github.com/Filza2"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filza2&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=filza2&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=filza2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&v=1" alt="GitHub Trophies"/>
+</p>
+
+
+## Visitors count
+![](https://komarev.com/ghpvc/?username=filza2)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=filza2&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
   
  <br><i>@Tpy</i><br>
