@@ -14,23 +14,26 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Filza2"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Filza2&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+  <p align="center">
+    <a href="https://github.com/Filza2"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Filza2&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+  </p>
     
-  <a href="https://github.com/Filza2"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filza2&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+  <p align="center">  
+  <a href="https://github.com/Filza2"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filza2&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=filza2&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Streak"/>
+  <a href="https://github.com/Filza2"><img src="https://streak-stats.demolab.com?user=filza2&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Streak"/></a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=filza2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&v=1&bg_color=0D1117" alt="GitHub Trophies">
+  <a href="https://github.com/Filza2"><img src="https://github-profile-trophy.vercel.app/?username=filza2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&v=1&bg_color=0D1117" alt="GitHub Trophies"></a>
 </p>
 
 
 ## Visitors count
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=filza2&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <a href="https://github.com/Filza2"><img src="https://komarev.com/ghpvc/?username=filza2&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/></a>
 </p>
 
   
