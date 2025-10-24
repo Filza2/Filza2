@@ -20,11 +20,11 @@
   <br/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=filza2&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=filza2&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=filza2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&v=1" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=filza2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&v=1&bg_color=0D1117" alt="GitHub Trophies">
 </p>
 
 
