@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Filza2/Filza2/refs/heads/main/Saudi_tech-logo.png" alt="logo"/>
+  <img src="https://raw.githubusercontent.com/Filza2/Filza2/refs/heads/main/Saudi_tech-logo.png" alt="logo" width="350" />
 </p>
 
 ---
