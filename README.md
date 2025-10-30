@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/Filza2"><img src="https://raw.githubusercontent.com/Filza2/Filza2/refs/heads/main/Saudi_tech-logo.png" alt="logo" width="350"/></a>
 </p>
-<hr style="width:40%; border:1px solid #00A36C; margin:auto;">
+<hr style="width:40%; border:1px solid #00A36C; margin:auto; color="#00A36C";">
 
 
 
