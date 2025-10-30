@@ -4,17 +4,22 @@
 
 
 
-<p align="center">
-  <a href="https://github.com/Filza2"><img src="https://raw.githubusercontent.com/Filza2/Filza2/refs/heads/main/Saudi_tech-logo.png" alt="logo" width="350"/></a>
-</p>
 
+<p align="center">
+  <a href="https://github.com/Filza2"><img src="https://raw.githubusercontent.com/Filza2/Filza2/refs/heads/main/hello_world_gif.gif" max-width="100%" alt="logo_gif" /></a>
+</p>
 
 
 
 ---
 <p align="center">
+  <a href="https://github.com/Filza2"><img src="https://raw.githubusercontent.com/Filza2/Filza2/refs/heads/main/Saudi_tech-logo.png" alt="logo" width="350"/></a>
+</p>
+<p align="center">
   <a href="https://github.com/Filza2"><img src="https://readme-typing-svg.herokuapp.com?font=Cairo&pause=1200&color=3B3B3B&background=00000000&width=200&height=60&lines=Hey+%F0%9F%91%8B+I%60m+Filza+!+....;Nice+to+see+you+here+..;" alt="Typing SVG"/></a>
 </p>
+
+
 
 ---
 ## 👋 About Me
@@ -53,7 +58,6 @@ I believe that great code should be both **powerful** and **easy to understand**
 
 >[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Any%20fool%20can%20write%20code%20that%20a%20computer%20can%20understand.%20Good%20programmers%20write%20code%20that%20humans%20can%20understand.&author=Filza)](https://github.com/Filza2)
 
-
 ---
 ## 📊 My Github Stats
   <br/>
@@ -82,7 +86,7 @@ I believe that great code should be both **powerful** and **easy to understand**
   
 
 ---
-#### Tools & Resources Used
+### Tools & Resources Used
 [![GitHub Readme Stats](https://img.shields.io/badge/GitHub%20Readme%20Stats-181717?style=flat&logo=github&logoColor=white)](https://github.com/anuraghazra/github-readme-stats)
 [![Typing SVG](https://img.shields.io/badge/Readme%20Typing%20SVG-181717?style=flat&logo=markdown&logoColor=white)](https://github.com/DenverCoder1/readme-typing-svg)
 [![Streak Stats](https://img.shields.io/badge/GitHub%20Streak%20Stats-181717?style=flat&logo=firefoxbrowser&logoColor=white)](https://github.com/DenverCoder1/github-readme-streak-stats)
