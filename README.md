@@ -81,7 +81,7 @@ I believe that great code should be both **powerful** and **easy to understand**
   
 
 ---
-### Tools & Resources Used
+#### Tools & Resources Used
 [![GitHub Readme Stats](https://img.shields.io/badge/GitHub%20Readme%20Stats-181717?style=flat&logo=github&logoColor=white)](https://github.com/anuraghazra/github-readme-stats)
 [![Typing SVG](https://img.shields.io/badge/Readme%20Typing%20SVG-181717?style=flat&logo=markdown&logoColor=white)](https://github.com/DenverCoder1/readme-typing-svg)
 [![Streak Stats](https://img.shields.io/badge/GitHub%20Streak%20Stats-181717?style=flat&logo=firefoxbrowser&logoColor=white)](https://github.com/DenverCoder1/github-readme-streak-stats)
