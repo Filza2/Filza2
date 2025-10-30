@@ -47,7 +47,7 @@ I believe that great code should be both **powerful** and **easy to understand**
 
 ---
 ## Quote
-> "البرمجة ليست فقط لما يفهمها الكمبيوتر، بل لما يفهمها البشر."
+> "اي شخص يستطيع كتابة كود يفهمه الكمبيوتر, لكن المبرمج الحقيقي يكتب كود يفهمه الانسان ."
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Any%20fool%20can%20write%20code%20that%20a%20computer%20can%20understand.%20Good%20programmers%20write%20code%20that%20humans%20can%20understand.&author=Filza)](https://github.com/Filza2)
 
 ---
