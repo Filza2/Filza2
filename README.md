@@ -12,7 +12,7 @@
 
 ---
 <p align="center">
-  <a href="https://github.com/Filza2"><img src="https://readme-typing-svg.herokuapp.com?font=Cairo&pause=1000&color=3B3B3B&background=00000000&width=160&height=60&lines=Hey+%F0%9F%91%8B+I%60m+Filza+!+....;Nice+to+see+you+here+..;" alt="Typing SVG"/></a>
+  <a href="https://github.com/Filza2"><img src="https://readme-typing-svg.herokuapp.com?font=Cairo&pause=1200&color=3B3B3B&background=00000000&width=200&height=60&lines=Hey+%F0%9F%91%8B+I%60m+Filza+!+....;Nice+to+see+you+here+..;" alt="Typing SVG"/></a>
 </p>
 
 ---
