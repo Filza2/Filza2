@@ -7,11 +7,8 @@
 <p align="center">
   <a href="https://github.com/Filza2"><img src="https://raw.githubusercontent.com/Filza2/Filza2/refs/heads/main/Saudi_tech-logo.png" alt="logo" width="350"/></a>
 </p>
-<div align="center">
-  <div style="height:6px; width:48%;
-    background:linear-gradient(90deg,#00A36C,#006C35);
-    border-radius:999px; margin:12px auto 0;"></div>
-</div>
+<hr style="width:40%; border:1px solid #00A36C; margin:auto;">
+
 
 
 ---
